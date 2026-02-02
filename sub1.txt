@@ -1,3 +1,1 @@
-vmess://BASE64_STRING_1
-vless://UUID@server:443?encryption=none&type=ws#MyServer
-trojan://password@server:443#Trojan-1
+https://github.com/Epodonios/v2ray-configs/blob/main/Sub1.txt
